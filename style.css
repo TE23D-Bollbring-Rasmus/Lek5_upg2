@@ -43,6 +43,7 @@ body{
 }
 
 .vänster{
+    text-align: center;
     height: 500px;
     margin-top: 5px;
     margin-left: 5px;
