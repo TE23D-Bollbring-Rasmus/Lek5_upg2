@@ -65,7 +65,7 @@ h1{
 }
 
 main{
-    height: 600px;
+    height: 590px;
     grid-column: 2/4;
     margin-top: 5px;
     margin-left: 5px;
@@ -89,7 +89,25 @@ main{
     text-align: center;
     grid-column: 2/4;
     width:20%;
-    
+    padding: 0%;
+}
+
+.julträd{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.sidfot{
+    grid-column: 2/3;
+    text-align: center;
+    height: 20px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    border: 2px solid #d6001d;
+    width: 100%;
 }
 
 
